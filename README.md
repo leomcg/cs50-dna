@@ -1,2 +1,2 @@
-# cs50-dna
-cs50's problem set 6
+# Specification
+https://cs50.harvard.edu/x/2020/psets/6/dna/
